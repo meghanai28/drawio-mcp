@@ -6,9 +6,12 @@ __pycache__/
 # uv
 uv.lock
 
+# CLAIDE
+.claude/
+
 # IDE
 .vscode/
 .idea/
 
 # Output diagrams (don't commit generated files)
-~/drawio-diagrams/
+drawio-diagrams/
