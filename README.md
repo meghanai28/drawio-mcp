@@ -54,7 +54,7 @@ Diagrams save to a `drawio-diagrams/` folder in whatever repo you run Claude fro
 
 ## Customize the style
 
-Edit `format_reference.py` to change the color palette, layout preferences, and example diagrams. Claude reads this before generating — your examples are its style guide.
+Edit `format_reference.py` to change the color palette, layout preferences, and example diagrams. Claude reads this before generating — your examples are its style guide. Currently using some of my human-made diagrams which helps generates diagrams that match my aesthetic.
 
 ## License
 
